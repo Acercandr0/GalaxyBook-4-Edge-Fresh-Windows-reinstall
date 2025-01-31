@@ -5,13 +5,12 @@ How to reinstall Windows 11 (ARM) on the GalaxyBook 4 Edge.
 I screwed up my laptop by doing a clean installation of Windows as if it were an x86 machine, but thanks to me messing everything up, you get to enjoy this tutorial right now.
 
 ### You’ll need:
+- A copy of the drivers, or you can download mine.
+- 1 USB HUB (or two flash drives with USB-C ports)
+- 2 USB Flash drives (16GB or more)
+- A working PC with Windows, or a virtual machine on macOS/Linux
 
-*A copy of the drivers, or you can download mine.
-*1 USB HUB (or two flash drives with USB-C ports)
-*2 USB Flash drives (16GB or more)
-*A working PC with Windows, or a virtual machine on macOS/Linux
-
-### Backup Drivers using Command Prompt
+### 1. Backup Drivers
 
 1. **Open Command Prompt as Administrator**:
 
