@@ -10,7 +10,7 @@ But thanks to me messing everything up, you get to enjoy this tutorial right now
 - [CreatePartitions Script](https://1024terabox.com/s/1GL2oZdSyj4WEn1o7h5S55Q) and [ApplyImage script](https://1024terabox.com/s/1SDr4T6cQp9GyqAXK44GOqg).
 - 1 USB HUB (or two flash drives with USB-C ports)
 - 2 USB Flash drives (16GB or more)
-- A working PC with Windows, or a virtual machine on macOS/Linux
+- A working PC with Windows or a virtual machine on macOS/Linux
 
 ## How to backup Drivers
 
@@ -61,7 +61,7 @@ Or download my copy of the drivers at this link: [Galaxy Book 4 Edge Drivers](ht
 5. **Burn the first USB**
    - You can burn it with [Rufus](https://rufus.ie/en/).
 
-## 2. Mount the Windows ARM ISO and Add Drivers
+## 2. Mount the Windows ARM ISO and add Drivers
 
 1. **Download WinARM ISO**:
    - Download the ISO from the [official site](https://www.microsoft.com/en-gb/software-download/windows11arm64?msockid=19c1f599bc176a070fb9e01dbd166bd1) of Microsoft.
@@ -90,7 +90,7 @@ Or download my copy of the drivers at this link: [Galaxy Book 4 Edge Drivers](ht
      dism /mount-wim /wimfile:C:\wim\install.wim /index:1 /mountdir:C:\wimmount
      ```
 
-6. **Add Drivers to the Mounted WIM File**:
+6. **Add Drivers to the mounted WIM File**:
    - Copy your drivers backup to the `C:\Drivers` folder.
    - Use the `dism` command to add the drivers from `C:\Drivers`:
      ```cmd
@@ -123,16 +123,15 @@ Or download my copy of the drivers at this link: [Galaxy Book 4 Edge Drivers](ht
    - With the PC off, plug your USB HUB with both USB drives.
 
 2. **Enter to the BIOS**:
-   - Turn on your computer by repeatedly pressing F2.
+   - Turn on your computer and press F2 repeatedly.
   
 3. **Turn off secure boot**:
    - Turn off secure boot and fast boot.
   
 4. **Change the boot order**:
-   - Find the boot order and change it to boot the first (WinPE) USB.
+   - Find the boot order and change it to boot with the first (WinPE) USB.
 
-5. **Save changes**:
-   - Almost there...
+5. **Save changes and remove both USB drives**:
 
 ## 5. Run the scripts
 1. Wait until the command prompt window on a plain blue background appears.
