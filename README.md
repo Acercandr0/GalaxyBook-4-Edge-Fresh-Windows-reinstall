@@ -6,10 +6,10 @@ I screwed up my laptop by doing a clean installation of Windows as if it were an
 
 ### You’ll need:
 
-A copy of the drivers, or you can download mine.
-1 USB HUB (or two flash drives with USB-C ports)
-2 USB Flash drives (16GB or more)
-A working PC with Windows, or a virtual machine on macOS/Linux
+*A copy of the drivers, or you can download mine.
+*1 USB HUB (or two flash drives with USB-C ports)
+*2 USB Flash drives (16GB or more)
+*A working PC with Windows, or a virtual machine on macOS/Linux
 
 ### Steps to Backup Drivers using Command Prompt
 
@@ -28,8 +28,3 @@ A working PC with Windows, or a virtual machine on macOS/Linux
      dism /online /export-driver /destination:C:\Drivers
      ```
 
-This will create a backup of all the installed drivers on your system and save them in the "C:\Drivers" folder.
-
-To restore the drivers in the future, you can use the following command:
-```cmd
-dism /online /restore-driver /source:C:\Drivers
