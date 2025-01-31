@@ -60,13 +60,10 @@ Or download my copy of the drivers at this link: [Galaxy Book 4 Edge Drivers](ht
 5. **Burn the first USB**
    - You can burn it with [Rufus](https://rufus.ie/en/).
 
-## 2. Prepare the second USB
-
-
-1. **Download the ISO**
+## 2. Download a Windows ARM 11 copy
    - Download the ISO from the [official site](https://www.microsoft.com/en-gb/software-download/windows11arm64?msockid=19c1f599bc176a070fb9e01dbd166bd1) of Microsoft.
 
-## 4. Mount the Windows ARM ISO and Add Drivers
+## 3. Mount the Windows ARM ISO and Add Drivers
 
 1. **Mount the ISO**:
    - Right-click the downloaded Windows ARM ISO file.
@@ -104,9 +101,9 @@ Or download my copy of the drivers at this link: [Galaxy Book 4 Edge Drivers](ht
      ```cmd
      dism /unmount-wim /mountdir:C:\wimmount /commit
      ```
-
-
-
+     
+8. **Locate the modified WIM file**:
+   - The WIN file should now be available at `C:\wim`.
 
 
 
