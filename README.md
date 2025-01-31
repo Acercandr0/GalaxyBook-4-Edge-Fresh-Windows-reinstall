@@ -11,10 +11,9 @@ I screwed up my laptop by doing a clean installation of Windows as if it were an
 *2 USB Flash drives (16GB or more)
 *A working PC with Windows, or a virtual machine on macOS/Linux
 
-### Steps to Backup Drivers using Command Prompt
+### Backup Drivers using Command Prompt
 
 1. **Open Command Prompt as Administrator**:
-   - Right-click on the Windows icon and select "Command Prompt (Admin)".
 
 2. **Create a folder to store the drivers**:
    - In the Command Prompt window, type the following command to create a folder named "Drivers" on the C: drive:
@@ -27,4 +26,7 @@ I screwed up my laptop by doing a clean installation of Windows as if it were an
      ```cmd
      dism /online /export-driver /destination:C:\Drivers
      ```
+Or download my copy of the drivers at this link: [Galaxy Book 4 Edge Drivers](https://1024terabox.com/s/1ZrLJrO0Ii5WbNNMDnphrEg)
+
+
 
