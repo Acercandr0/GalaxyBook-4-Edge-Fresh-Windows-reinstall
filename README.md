@@ -146,7 +146,7 @@ diskpart /s D:\CreatePartitions.txt
 ```cmd
 D:\ApplyImage.bat D:\install.wim
 ```
-If everything worked well, run exit and disconnect the USB drives before the system restarts.
+If everything worked well, run `exit` and disconnect the USB drives before the system restarts.
 
 ## Thats it! 🙌
 From this point onward, the installation process of Windows ARM 11 should begin, with all drivers included 🫡
