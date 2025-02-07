@@ -63,7 +63,7 @@ Or download my copy of the drivers at this link: [Galaxy Book 4 Edge Drivers](ht
 ## 2. Mount the Windows ARM ISO and add Drivers
 
 1. **Download WinARM ISO**:
-   - Download the ISO from the [official site](https://www.microsoft.com/en-gb/software-download/windows11arm64msockid=19c1f599bc176a070fb9e01dbd166bd1) of Microsoft.
+   - Download the ISO from the [Official site of Microsoft](https://www.microsoft.com/es-es/software-download/windows11arm64).
      
 2. **Mount the ISO**:
    - Right-click the downloaded Windows ARM ISO file.
