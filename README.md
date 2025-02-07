@@ -31,7 +31,7 @@ Or download my copy of the drivers at this link: [Galaxy Book 4 Edge Drivers](ht
 ## 1. Creating a WinPE Boot Device
 
 1. **Install Required Tools**:
-   - From your Windows device, install the Windows Assessment and Deployment Kit (Windows ADK) and the Windows PE add-on. Follow the [official guide](https://learn.microsoft.com/en-us/windows-hardware/get-started/adk-install] for installation instructions.
+   - From your Windows device, install the Windows Assessment and Deployment Kit (Windows ADK) and the Windows PE add-on. Follow the [official guide](https://learn.microsoft.com/en-us/windows-hardware/get-started/adk-install) for installation instructions.
 
 2. **Launch Deployment and Imaging Tools Environment**:
    - Open the "Deployment and Imaging Tools Environment" app with administrator privileges.
