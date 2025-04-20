@@ -6,7 +6,7 @@ I screwed up my laptop by doing a clean installation of Windows as if it were an
 
 ## You’ll need:
 - A copy of the drivers, or you can download [mine](https://1024terabox.com/s/1cYVHED2nhbd3S3cM1zGlaQ)
-- [CreatePartitions script](https://1024terabox.com/s/1GL2oZdSyj4WEn1o7h5S55Q) and [ApplyImage script](https://1024terabox.com/s/1SDr4T6cQp9GyqAXK44GOqg).
+- [CreatePartitions script](https://github.com/Acercandr0/GalaxyBook-4-Edge-Fresh-Windows-reinstall/blob/main/CreatePartitions.txt) and [ApplyImage script]([https://1024terabox.com/s/1SDr4T6cQp9GyqAXK44GOqg](https://github.com/Acercandr0/GalaxyBook-4-Edge-Fresh-Windows-reinstall/blob/main/ApplyImage.bat).
 - 1 USB HUB (or two flash drives with USB-C ports)
 - 2 USB Flash drives (16GB or more)
 - A working PC with Windows or a virtual machine on macOS/Linux
