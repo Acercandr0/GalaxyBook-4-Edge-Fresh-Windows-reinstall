@@ -108,7 +108,7 @@ Or download my copy of the drivers at this link: [Galaxy Book 4 Edge Drivers](ht
 ## 3. Burn the second USB
 
 1. **Download the scripts**:
-   - Download the [CreatePartitions Script](https://1024terabox.com/s/1GL2oZdSyj4WEn1o7h5S55Q) and the [ApplyImage script](https://1024terabox.com/s/1SDr4T6cQp9GyqAXK44GOqg).
+   - Download the [CreatePartitions script](https://github.com/Acercandr0/GalaxyBook-4-Edge-Fresh-Windows-reinstall/blob/main/CreatePartitions.txt) and [ApplyImage script](https://github.com/Acercandr0/GalaxyBook-4-Edge-Fresh-Windows-reinstall/blob/main/ApplyImage.bat).
   
 2. **Format the second USB**:
    - Format the USB drive as NTFS.
