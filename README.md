@@ -5,7 +5,7 @@ How to reinstall Windows 11 (ARM) on the GalaxyBook 4 Edge.
 I screwed up my laptop by doing a clean installation of Windows as if it were an x86 machine, but thanks to me messing everything up, you get to enjoy this tutorial right now 👌
 
 ## You’ll need:
-- A copy of the drivers, or you can download them from [Samsung](https://www.samsung.com/global/galaxybooks-downloadcenter/) or [mine](https://1024terabox.com/s/1cYVHED2nhbd3S3cM1zGlaQ)
+- A copy of the drivers, or you can download them from [Samsung](https://www.samsung.com/global/galaxybooks-downloadcenter/) or [my backup.](https://1024terabox.com/s/1cYVHED2nhbd3S3cM1zGlaQ)
 - [CreatePartitions script](https://github.com/Acercandr0/GalaxyBook-4-Edge-Fresh-Windows-reinstall/blob/main/CreatePartitions.txt) and [ApplyImage script](https://github.com/Acercandr0/GalaxyBook-4-Edge-Fresh-Windows-reinstall/blob/main/ApplyImage.bat).
 - 1 USB HUB (or two flash drives with USB-C ports)
 - 2 USB Flash drives (16GB or more)
