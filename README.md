@@ -26,7 +26,6 @@ I screwed up my laptop by doing a clean installation of Windows as if it were an
      ```cmd
      dism /online /export-driver /destination:C:\Drivers
      ```
-Or download my copy of the drivers at this link: [Galaxy Book 4 Edge Drivers](https://1024terabox.com/s/1cYVHED2nhbd3S3cM1zGlaQ)
 
 ## 1. Creating a WinPE Boot Device
 
