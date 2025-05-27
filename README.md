@@ -1,5 +1,5 @@
-# GalaxyBook 4 Edge - Fresh Windows reinstall
-How to reinstall Windows 11 (ARM) on the GalaxyBook 4 Edge.
+# Snapdragon X Elite - Fresh Windows reinstall
+This guide uses the Samsung GalaxyBook 4 Edge as an example, but it works the same for other devices with a Snapdragon X processor.
 
 ## Long Story Short:
 I screwed up my laptop by doing a clean installation of Windows as if it were an x86 machine, but thanks to me messing everything up, you get to enjoy this tutorial right now 👌
