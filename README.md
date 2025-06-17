@@ -129,11 +129,11 @@ I screwed up my laptop by doing a clean installation of Windows as if it were an
 4. **Change the boot order**:
    - Find the boot order and change it to boot with the first (WinPE) USB.
 
-5. **Save changes and remove both USB drives**:
+5. **Save changes and reboot**:
 
 ## 5. Run the scripts
 1. Wait until the command prompt window on a plain blue background appears.
-2. Run `dikspart`.
+2. Run `diskpart`.
 3. Run `list volume` to identify the drive letter for the disk containing the install.wim and script files.
 4. Run `exit` to go back.
 5. Run the following commands replacing D: with the drive letter found with `list volume`:
